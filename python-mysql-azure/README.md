@@ -24,6 +24,15 @@ In this tutorial, you will learn how to connect to your Azure Database for MySQL
 
 This tutorial will show you how to use Python to create tables and manipulate data in Azure Database for MySQL.
 
+#### PART 4: Insert data from file in Azure Database for MySQL
+<p>
+  <a href="https://www.foteinisavvidou.codes/insert-data-from-file-in-azure-database-for-mysql/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="db3.py" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Source code"></a>
+</p>
+
+In this tutorial, you will use SQL statements to manipulate data in Azure Database for MySQL and learn how to open files in Python.
+
+
 
 <br>
 <br>
