@@ -1,0 +1,30 @@
+The Alchemist, Paulo Coelho, Novel, 2
+Of Mice and Men, John Steinbeck, Novel, 2
+The Grapes of Wrath, John Steinbeck, Novel, 4
+East of Eden, John Steinbeck, Novel, 3
+The Da Vinci Code, Dan Brown, Novel, 2
+Life of Pi, Yann Martel, Novel, 3
+Hamlet, William Shakespeare, Tragedy, 5
+Little Women, Louisa May Alcott, Novel, 1
+A Tale of Two Cities, Charles Dickens, Historical novel, 1
+The Frogs, Aristophanes, Comedy, 2
+Lysistrata, Aristophanes, Comedy, 2
+The Universe in a Nutshell, Stephen Hawking, Science, 1
+The Design of Everyday Things, Donald A. Norman, Design, 2
+The Old Man and the Sea, Ernest Hemingway, Novel, 1
+Moby Dick, Herman Melville, Novel, 3
+The Adventures of Huckleberry Finn, Mark Twain, Novel, 2
+The Great Gatsby, F. Scott Fitzgerald, Novel, 3
+The Picture of Dorian Gray, Oscar Wilde, Drama, 4
+Travels with Charley: In Search of America, John Steinbeck, Biography, 2
+A Christmas Carol, Charles Dickens, Novel, 2
+1984, George Orwell, Novel, 5
+Animal Farm, George Orwell, Political satire, 4
+Anna Karenina, Leo Tolstoy, Novel, 5
+The Hobbit, J. R. R. Tolkien, Novel, 3
+Farmer Giles of Ham, J. R. R. Tolkien, Children's literature, 1
+The Lord of the Rings, J. R. R. Tolkien, Fantasy, 1
+Harry Potter and the Philosopher's Stone, J. K. Rowling, Fantasy, 2
+Harry Potter and the Prisoner of Azkaban, J. K. Rowling, Fantasy, 1
+Harry Potter and the Half-Blood Prince, J. K. Rowling, Fantasy, 1
+The Stranger, Albert Camus, Novel, 3
