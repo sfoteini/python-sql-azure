@@ -16,6 +16,15 @@ In this tutorial, you will learn how to create an Azure SQL Database and configu
 
 In this tutorial, you will learn how to use Python and Jupyter Notebooks to connect to an Azure SQL Database.
 
+#### PART 3: Insert Python dataframe into Azure SQL table
+<p>
+  <a href="https://www.foteinisavvidou.codes/insert-python-dataframe-into-azure-sql-table/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="2-insert-data-sql.ipynb" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Source code"></a>
+  <a href="movies.CSV" target="_blank"><img src="https://img.shields.io/badge/Movies dataset-yellow?style=for-the-badge" alt="Movies dataset"></a>
+</p>
+
+In this tutorial, you will learn how to use Python and Jupyter Notebooks to insert a dataframe into an Azure SQL table.
+
 
 <br>
 <br>
