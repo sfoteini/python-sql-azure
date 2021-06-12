@@ -25,6 +25,7 @@ In this tutorial, you will learn how to use Python and Jupyter Notebooks to conn
 
 In this tutorial, you will learn how to use Python and Jupyter Notebooks to insert a dataframe into an Azure SQL table.
 
+_Data: [IMDB Movies Dataset - Kaggle](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)_
 
 <br>
 <br>
