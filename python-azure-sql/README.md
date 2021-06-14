@@ -30,7 +30,7 @@ _Data: [IMDB Movies Dataset - Kaggle](https://www.kaggle.com/harshitshankhdhar/i
 #### PART 4: Manipulate data in Azure SQL Database using Python and Jupyter Notebook
 <p>
   <a href="https://www.foteinisavvidou.codes/manipulate-data-in-azure-sql-database-using-python-and-jupyter-notebook/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
-  <a href="2-insert-data-sql.ipynb" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Source code"></a>
+  <a href="3-manipulate-data-sql.ipynb" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Source code"></a>
   <a href="movies.CSV" target="_blank"><img src="https://img.shields.io/badge/Movies dataset-yellow?style=for-the-badge" alt="Movies dataset"></a>
 </p>
 
