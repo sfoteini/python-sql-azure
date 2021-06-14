@@ -67,8 +67,8 @@ In this tutorial, you will learn how to use Python and Jupyter Notebooks to inse
 #### PART 4: Manipulate data in Azure SQL Database using Python and Jupyter Notebook
 <p>
   <a href="https://www.foteinisavvidou.codes/manipulate-data-in-azure-sql-database-using-python-and-jupyter-notebook/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
-  <a href="2-insert-data-sql.ipynb" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Source code"></a>
-  <a href="movies.CSV" target="_blank"><img src="https://img.shields.io/badge/Movies dataset-yellow?style=for-the-badge" alt="Movies dataset"></a>
+  <a href="/python-azure-sql/3-manipulate-data-sql.ipynb" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Source code"></a>
+  <a href="/python-azure-sql/movies.CSV" target="_blank"><img src="https://img.shields.io/badge/Movies dataset-yellow?style=for-the-badge" alt="Movies dataset"></a>
 </p>
 
 This tutorial will show you how to manipulate and query data in an Azure SQL database using Python and Jupyter Notebooks.
